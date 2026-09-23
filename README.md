@@ -46,7 +46,7 @@ No arquivo `src/main/resources/application.properties`, configure a conexão com
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/servicehub
 spring.datasource.username=postgres
-spring.datasource.password=postgres
+spring.datasource.password=123456
 spring.datasource.driver-class-name=org.postgresql.Driver
 ```
 
